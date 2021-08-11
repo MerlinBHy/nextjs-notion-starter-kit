@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '3045089bde7a48aa87f37fe279416029',
+  rootNotionPageId: '57758ac572924056bfd87669ee5b422f',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Dagobah',
-  domain: 'https://alive-clownfish-ac7.notion.site/3045089bde7a48aa87f37fe279416029',
+  domain: 'https://alive-clownfish-ac7.notion.site/Personal-Home-57758ac572924056bfd87669ee5b422f',
   author: 'Haoyu.bian',
 
   // open graph metadata (optional)
